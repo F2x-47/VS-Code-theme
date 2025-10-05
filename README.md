@@ -1,7 +1,7 @@
 # Dark color theme for Visual Studio Code
 This repository contains files of my Visual Studio Code theme.
 
-### How to use it ?
+## How to use it ?
 To use this color theme in your own VS Code, you need to install _yo_ and _generato-code_. If you have an error message : you can try with administrator permissions.
 ```
 npm install -g yo generator-code
