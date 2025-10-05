@@ -1,4 +1,4 @@
-# VS-Code-theme
+# Dark color theme for Visual Studio Code
 This repository contains files of my Visual Studio Code theme.
 
 ### How to use it ?
