@@ -14,4 +14,5 @@ yo code
 Now you need to select "**New color theme**", "**No, start fresh**". You can call the now theme as you wish.
 Now, you need to open the file _JSON_ in the foler '_themes_' and paste the code of the file '_theme-settings.json_' of this repository.
 
-THANKS !
+### Thanks
+ - https://www.youtube.com/watch?v=DJt7-DapzSI
