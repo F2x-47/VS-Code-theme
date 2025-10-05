@@ -15,4 +15,5 @@ Now you need to select "**New color theme**", "**No, start fresh**". You can cal
 Now, you need to open the file _JSON_ in the foler '_themes_' and paste the code of the file '_theme-settings.json_' of this repository.
 
 ### Thanks
+ - https://code.visualstudio.com/api/references/theme-color
  - https://www.youtube.com/watch?v=DJt7-DapzSI
